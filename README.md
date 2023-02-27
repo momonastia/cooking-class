@@ -7,7 +7,7 @@
 
 <div>
   <h3 align="left">Description</h3>
-    <p  align="left"> Cooking courses landing page </p>
+    <p  align="left"> Cooking courses landing page created at first weeks of Coding Bootcamp </p>
    <br>
    </div>          
 <hr>
@@ -16,8 +16,8 @@
     <h3 align="left">Mobile and desktop versions</h3>
   <div style="display: flex; gap: 5rem;  flex-direction: row;
         align-items: center; justify-content: center;">
-        ![](https://github.com/momonastia/cooking-class/mobile-gif.gif)
-        ![](https://github.com/momonastia/cooking-class/desktop-gif.gif)
+        ![](https://github.com/momonastia/cooking-class/blob/main/mobile-gif.gif)
+        ![](https://github.com/momonastia/cooking-class/blob/main/desktop-gif.gif)
     </div>
 </div>      
 </div> 
