@@ -14,7 +14,7 @@
 
 <div>
     <h3 align="left">Mobile and desktop versions</h3>
-          ![](mobile-gif.gif)
+      ![](desktop-gif.gif)
         ![](https://github.com/momonastia/cooking-class/blob/main/desktop-gif.gif)
     
 </div>      
