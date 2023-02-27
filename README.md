@@ -16,6 +16,8 @@
     <h3 align="left">Mobile and desktop versions</h3>
   <div style="display: flex; gap: 5rem;  flex-direction: row;
         align-items: center; justify-content: center;">
+        ![](https://github.com/momonastia/mobile-gif.gif)
+        ![](https://github.com/momonastia/desktop-gif.gif)
     </div>
 </div>      
 </div> 
