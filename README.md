@@ -16,9 +16,7 @@
     <h3 align="left">Mobile and desktop versions</h3>
   <div style="display: flex; gap: 5rem;  flex-direction: row;
         align-items: center; justify-content: center;">
-   ![](https://i.postimg.cc/hPYN59Tt/mobile-1.gif)
-   ![](https://i.postimg.cc/T3wYrqG2/mobile.gif)
-  </div>
+    </div>
 </div>      
 </div> 
       
