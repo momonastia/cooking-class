@@ -14,8 +14,7 @@
 
 <div>
     <h3 align="left">Mobile and desktop versions</h3>
-      
-    ![mobile-gif](https://user-images.githubusercontent.com/116550199/221605029-51af6402-87c2-43a9-a22b-2d0fa29b072a.gif)
+ 
 
 </div>      
 </div> 
